@@ -1,2 +1,2 @@
 # u-boot
-submariner game
+Submariner game made with LOVE engine.
